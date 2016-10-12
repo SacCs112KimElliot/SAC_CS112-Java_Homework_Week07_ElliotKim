@@ -107,3 +107,7 @@ public class SAC_CS112Java_Homework_Week07_ElliotKim
         JOptionPane.showMessageDialog( null, "Good Bye");
     } 
 }
+
+// Good job, Elliot.
+// Regarding array, please consider using 5 different arrays. Declare an int variable to track the round number.  Use this int as the index to the arrays.
+
